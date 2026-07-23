@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greyw0rks</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyw0rks&label=Profile%20views&color=0e75b6&style=flat" alt="greyw0rks" /> </p>
 
